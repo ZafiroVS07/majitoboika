@@ -1,0 +1,14 @@
+h1{
+    color: rgb(38, 0, 255);
+    text-align: center;
+}
+
+a:link, a:visited{
+    background-color: rgb(170, 24, 48);
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 12px;
+    
+}
